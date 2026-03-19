@@ -1,0 +1,7 @@
+Learnings:
+1. Selecting databases and tables 
+2. Using Distinct command for unique values 
+3. BODMAS rule followed by SQL for math equations 
+4. UI of the MYSQL Workbench
+5. Where command 
+6. Conditional operators
