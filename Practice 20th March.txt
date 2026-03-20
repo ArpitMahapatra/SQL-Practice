@@ -1,0 +1,7 @@
+Learnings :
+1. Conditional operators of AND, OR & NOT
+2. Like Statement
+3. Group by and Order by command
+4. Avg command
+5. MIN and MAX command
+6. Having vs Where 

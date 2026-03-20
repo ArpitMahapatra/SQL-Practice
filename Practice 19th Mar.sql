@@ -31,4 +31,8 @@ WHERE gender != "female";
 
 SELECT * 
 FROM parks_and_recreation.employee_demographics
-WHERE birth_date < "1985-01-01";  
+WHERE birth_date < "1985-01-01" 
+AND gender = 'male';
+
+
+
